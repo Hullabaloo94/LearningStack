@@ -1,0 +1,10 @@
+C:\Users\Jason\source\repos\LearningStack\LearningStack\bin\Debug\netcoreapp3.0\LearningStack.exe
+C:\Users\Jason\source\repos\LearningStack\LearningStack\bin\Debug\netcoreapp3.0\LearningStack.deps.json
+C:\Users\Jason\source\repos\LearningStack\LearningStack\bin\Debug\netcoreapp3.0\LearningStack.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningStack\LearningStack\bin\Debug\netcoreapp3.0\LearningStack.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningStack\LearningStack\bin\Debug\netcoreapp3.0\LearningStack.dll
+C:\Users\Jason\source\repos\LearningStack\LearningStack\bin\Debug\netcoreapp3.0\LearningStack.pdb
+C:\Users\Jason\source\repos\LearningStack\LearningStack\obj\Debug\netcoreapp3.0\LearningStack.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningStack\LearningStack\obj\Debug\netcoreapp3.0\LearningStack.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningStack\LearningStack\obj\Debug\netcoreapp3.0\LearningStack.dll
+C:\Users\Jason\source\repos\LearningStack\LearningStack\obj\Debug\netcoreapp3.0\LearningStack.pdb
